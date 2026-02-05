@@ -43,7 +43,7 @@ public class Board : MonoBehaviour
     };
 
     private int sequenceIndex = 0;
-
+    // I had a hard time setting up the board with my pieces, so I just opted for one big color, this is just for testing purposes and the sake of
     // this is the board i start with:
     // '#' means there is already a locked block there
     // '.' means empty
